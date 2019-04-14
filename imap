@@ -1,0 +1,5 @@
+wget https://raw.githubusercontent.com/iuniti/Imap/master/imap.js
+wget https://raw.githubusercontent.com/iuniti/Imap/master/menu.inc.php
+wget https://raw.githubusercontent.com/iuniti/Imap/master/menupopup.js
+wget https://raw.githubusercontent.com/iuniti/Imap/master/portal.php
+wget https://raw.githubusercontent.com/iuniti/Imap/master/settings.js
